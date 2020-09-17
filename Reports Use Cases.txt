@@ -1,0 +1,40 @@
+1. New Student On boarding
+2. Welcome Email Notification
+3. Adding New Learning Path
+4. Adding Course to the Learning Path
+5. Enrolling Students to the Learning Path
+6. Students gets Email notification on assigning to the Learning Path
+7. Student Login Through Web
+8. Student Login Through App
+9. Access Course Assigned in Learning Path
+10. Student Starts Next Course Assigned in Learning Path
+11. Complete the Assessment of the Course
+12. Mentor/Instructor Reviews the Assessment
+13. Student gets Badge for the Completed Course
+14. Student Posts Badge to the Social Networks
+15. Student gets Certificate After Completing the Learning Path
+16. Student Posts Course Completing Certificate To LinkedIn/FB
+17. Login to Portal Using Social Networks
+18. Student Asks Question To Expert
+19. Student gets Notification when New course is added to the Learning path
+===================================================================================
+1. Learner logins report based on the selected date range - Available in LMS
+2. Learner  report based on the semester - Available in LMS
+3. Learner report based on the learning path - Available in LMS
+4. Failed/Pass quizzes report by course and learner.
+5. In how many attempts learner answered the quiz.
+6. Active learner  list based on the selected date range - Available in LMS
+7. Inactive learner list based on the selected date range.
+8. Course completed learners list  - Available in LMS
+9. Course not completed learners list - Available in LMS
+10. Course not started learners list  - Available in LMS
+11. Course in progress learners list - Available in LMS
+12. Learning path completed learners list - Available in LMS
+13. Learning path not started learners list - Available in LMS
+14. Learning path in progress learners list - Available in LMS
+15. Certificates issued report - Available in LMS
+16. Assessment completed learners list - Available in LMS
+17. Assessment in progress learners list - Available in LMS
+
+
+
